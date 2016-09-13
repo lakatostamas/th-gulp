@@ -1,0 +1,23 @@
+{
+  "name": "assetic-th",
+  "version": "1.0.0",
+  "description": "assetic-th",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "gulp default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-sass-lint": "^1.2.0",
+    "gulp-watch": "^4.3.9"
+  }
+}

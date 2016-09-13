@@ -1,0 +1,20 @@
+{
+  "name": "assetic-th",
+  "description": "assetic-th",
+  "main": "index.js",
+  "authors": [
+    "lakatostamas <ltamajs4@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "*",
+    "!assets/src",
+    "!dist"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "v4.0.0-alpha.3",
+    "webshim": "^1.15.10"
+  }
+}
